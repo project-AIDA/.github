@@ -7,7 +7,7 @@ It is a cooperation work between National Archives of Finland (NAF), Central Arc
 The main model created in the project was a Finnish OCR model. The model is finetuned from PaddleOCR latin model, using a Finnish dataset from ELKA and combining that with Finnish synthetic data. All the data used in model training can be found from huggingface.
 
 <p float="left">
-  <img src="https://github.com/project-AIDA/.github/blob/main/Kuva12.png"  width="10%" height="10%">
+  <img src="https://github.com/project-AIDA/.github/blob/main/Kuva12.png"  width="30%" height="30%">
 </p>
 
 
